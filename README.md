@@ -16,6 +16,6 @@ References of Attiny's book
 [avrfreaks](https://www.avrfreaks.net/)
 
 # Books :
-[AVR Programming: Learning to Write Software for Hardware (Make: Technology on Your Time)](https://www.amazon.com/AVR-Programming-Learning-SoftwareTechnology/dp/1449355781)
+[AVR Programming: Learning to Write Software for Hardware (Make: Technology on Your Time)](https://www.amazon.com/AVR-Programming-Learning-SoftwareTechnology/dp/1449355781) : The book explains how to use the AVR development environment and develop programs using the C language to achieve various functions using ATtiny.
 
 [Learn ATtiny85 microcontroller in 10 days](https://www.gadgetronicx.com/learn-attiny85-microcontroller/)
